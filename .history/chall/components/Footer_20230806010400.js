@@ -1,8 +1,8 @@
-// components/Footer.js
 function Footer() {
     return (
       <footer>
-        <p>Telif Hakkı © {new Date().getFullYear()} My Website</p>
+        {/* Footer içeriğini buraya ekleyin */}
+        <p>Telif Hakkı © 2023 - Şirket Adı</p>
       </footer>
     );
   }
