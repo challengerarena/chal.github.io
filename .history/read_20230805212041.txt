@@ -1,0 +1,551 @@
+Şimdi toparliyalim:
+
+Öncelikle butun uyeler, Magaza sahipleri,yetkililer ayni yerden panellerine giriş yapacaklar 
+Üyeler girişlerini telefon numarasıyla ve  maile gönderilen benzersiz şifre ile yapacaklar
+
+• Admin paneli, (bana ait olan yetkiler siteyi yonetigim ve. Yetki paylasimini yaptigim yer
+•  magaza paneli (Mağaza sayfasi)
+• Mağaza satıcısı paneli ( magaza sahiplerine verilen panel)
+• adminin yetki verdigi (tek basima admin panelini yonetemem)
+• panel turnuva paneli(turnuvalarin yapildigi sayfa)
+
+Herkes bireysel olarak üye oluyor(Hepsi zorunlu alandır)
+
+İsim soyisim
+Oyun Nicki ( steam profilinizde ki veya oyun platformlarında kullandiginiz nick ile ayni olmalidir)
+Profil resmi 
+Telefon numarası 
+Mail
+Dogum tarihi dd/aa/yyyy
+Ulkesi 
+İli 
+İlçesi 
+Açık adresiniz [mağazadan sipariş verdiği taktirde bu adres baz alinacak]
+Posta kodu 
+Steam profil linki
+Guvenlik sorusu <sevdiginiz renk>
+Guvenlik sorusunun cevabi  <sari>
+
+Üyeler kayıt olduktan hemen sonrasında telefon doğrulaması mail doğrulaması yapacaklar 
+
+Yayinci iseniz yayin linki
+Yayincilar yayin linki ekledigi taktirde sitede profilinde yayin yapabilecek profilerinde yayinlarina ait kesitler ekliyebilecek
+
+(Sifre olmayacak şifre random olusturulacak benzesiz olacak 5 haneli olacak ve mail adresine veya telefonuna gönderilecek her bir girisinde şifre degisik olacak boyle kredi karti bilgileri kisiisel bilgileri guvende olacak )
+
+
+
+
+Sidebarda Takım olustur butonu olacak Takim olustur dedikten sonra buton silinecek Takim silinirse buton tekrar aktif olacak 
+
+
+Takim olusturmak isteyen varsa takım olustur butonuna tiklamasiyla takım oluşturma ⚠️  alert ekrani gelecek burada 
+takım ismi (  unique olacak benzersiz onceden kullanilmamis olmasi lazim)
+ takım resmi 
+Takım üyeleri mail adresleri veya telefon  (davet etmek için)
+
+Takim olustur [buttonu]
+
+Her bireysel kisi takım oluştur demeyisle her takima bir oda tahsis edecek oda Idsi olacak bu id aslinda sitenin linkine takım ismini yazacak ayni id ye kimse sahip olamaz örnek: payyung.com/myteam
+
+Takim olustur [butonu] (tiklamasiyla ⚡️Alert ekrani gelecek takımınız olusturuldu ve sizlere bir oda tahsis edildi!!🥳🥳 odaniza gecip takım uyelerin kayıt olmasini beklerken oda ayarlarinizi yapmanizi  öneriyoruz, davet ettiginiz kişiler davetinizi kabul ettiginde odanizda gozukecektir) ( Takim olustrurken bazi kurallar olacak bunu acik bir sekilde okuyup kabul etmesi gerekecek)
+
+Tamam[buttonu] tiklamasiyla alert kapatilir ve önceden yönlendirdiği için odayı direk görür 
+
+[  ] Takım olusturupta davet ettigi kişilerin daveti kabul etme suresi 12 saatir 12 saat sonrasinda gönderilen link disable olur
+
+[  ] Takım üyesi takimdan çıkmak isteyebilir lakin bir hazır macta /turnuvada olmamasi gerekir
+[  ] takim kaptani aldigi Üyeyi, üyenin profilinden  takımından at butonu ile atabilir lakin bir hazır macta /turnuvada olmamasi gerekir
+
+• TAKIM KAPTANI  takimdan ayrilacak ise oncelikle liderligini baska bir üyeye aktarması gerekiyor daha sonra takimdan ayril butonu ile ayrılacak yeni takım kaptanı kim belirlendiyse ona bildirecek [tebrikler takım kaptanı secildiniz Sözleşme kurullari asagida belirtilmiştir lutfen dikkatlice okuyup onaylayiniz ] onay verilmeyen kisi takım kaptanı olamaz ve ayrica 
+• aktif bir teklifin /turnuvanin/ oyunun olmasi durumunda takım kaptanı ayril butonu aktif olmaz
+
+Takimlari listeleme bolumunde /teklif ver /teklif gonder/ detaylar/ olacak
+
+Takim listeme bölümünde ayrica takima katilmasi icin bir buton olacak takım kaptanı kabul ederse bireysel üye takima giriş yapacak ( tabi yine bunun ayari olacak ayarlar kisminda)
+
+( [Ev sahibi ] teklif alan takım)
+( [Misafir ] teklif gonderen veya takımlar turnuva yapamak isteyen takim)
+
+
+Misafir Takim kaptani teklif gonder demesiyle karşısına alert ⚠️ ekrani gelecek ve 10/50/ 100 /500 / Diger seçenek olacak ve burada sayi girebilecek(0-9) text box olacak oyun parasi yazabilecegi bir alan acilmis olacak iptal et gonder butonlari olacak [kullanicilar 10  altında altinda teklif gönderemez] (admin panelinden limitin ayarlanacak olmasi lazım)
+
+
+[
+
+Teklif kabul edildikten sonra ODA UYGUN ise yapilacak olan maclar listesinde (Sayfasında) odaya gir butonu aktif olacak ve misafir takım odaya girebilecek ama öncelikle  bu butonla BAKIYE KONTROLÜ sağlanacak Bakiye var ise takımıyla birlikte odaya girebilir yok ise  takiminizda volkanın bakiyesi yetersiz oldugundan bu odaya giriş yapamazsiniz lutfen kendisiyle iletisime geciniz veya diger takım üyelerinizden birini seçiniz
+
+[Kontroller:
+ oda uygunluk kontrolü
+  Bakiye kontrolü 
+
+[KONTROL PROTOKOLÜ] 
+
+]
+
+
+
+Odaya Giridginde ise bir diskord da nasil sesli kanallarda kişiler gorunuyor ise ayni sekilde Solu sagli takımlar olup orta aşağı kısımda yazisma alanı olacak( 2 v muzda ise sesli kanallar aktif olacak oda özelleştirmeleri aktif olacak sayfa arkaplan resmi vb ücretli seçenekler)
+
+
+
+
+[Kontrol protokolü]
+Teklif, ev sahibi tarafindan  onaylandıktan sonrasinda kontrol protokolünden sonra misafir takım odaya girebilir, çıkabilir . Takimlardan biri veya çoğu hazır vermediği taktirde [2 dakika protokulu] uygulanancak 2 dakikadan geriye sayacak örnek turnuvanin gecersiz sayilmasina 100 saniye kaldi 
+
+ 2 dakika sonrasinda misafir takım, ev sahibinin odasina giremiyecek tabi ki  bu protokol icinde iki takımda teklifi iptal edebilir, iki takımin her bir üyesi hazır butonuna bastığında protokol devre disi kalacak 1 dakika dan geriye sayip , [Uygun sunucu aranıyor luften bekleyiniz....] 
+steam ile bizim sunucuya baglanirlar (kullanici uye olduğunda tarayicıdan gelen bildirim istekleri kabul etmiş olması gerekiyor ki sistem steam bağlantısı yollayacak ve onay vermesine gerek kalmasın hemen sunucuya girsin soru yasamasin)oyunlar oynanır orta kısımda ev sahibinin odasinda macin kaç kac oldugunu bittigini yazan bolum olur
+üyeler ayrica  hazır butonuna basmasiyla birlikte bütün uyelerden bakiyelerinden teklif ücreti alinir
+
+
+
+Boylece takımlar anlik olarak teklif alabilir anlik turnuva yapabilirler turnuva saati tarihine gerek kalmaz turnuva yapildiktan hemen sonrasında Skor belli oldugunda mac bitti butonu aktif olur ve ev sahibi mac bitti diyerek misafirleri gonderir ve kazanan takimin skoruna gore kazanan takimin kazanci hesaplarina gecer bu durum skora bagli olarak yapilir mac bitti butonuna bagli olarak değil [bu sayi ,bu sayidan ust ise bunu yap ] veya  iki takımda bir mac daha isteyebilir
+
+[Kontrol protokolü]
+Bir Teklif aktif iken diger takimlari teklifini kabul edebilir lakin aktif bir teklif oldugu icin odaya giriş izni veremez ne zaman oda bos ise misafir takimin giriş izinleri olur(odaya gir butonu aktif olur takım kaptanı odaya girmesiyle birlikte takım kaptanın sectigi uyelerde odaya giriş yapar (yani takim kaptani hangi odada ise yaninda takiminida getiriyor takimin odaya girmesine gerek kalmiyor sadece onlar hazir veriyor ve ucreti alınıyor)sonrasında biliyoruzki 2 dk protokolü  başlar)
+
+Teklif  iptal etmeden takim kaptani baska teklife giriş yapamaz 
+
+ 
+
+Her teklifin 1 saat suresi vardir kabul edilmeyen teklif ler sure sonunda iptal edilir 
+
+Teklif iptal edildiğinde odada veya başka bir yerde gozukmiyecek sadece bildirim olarak gidecek bildirim de tekrar teklif gonder butonu olacak
+
+ Teklifleri mail ve telefon site ici bildirim ile bilgilendirecegiz
+
+
+
+
+Takımda en ez 5 kisi olmak zorundadır 5 kisi altinda olmasi durumunda takım listeleme bolumunde takima teklif gonder veya teklif ver butonlari gozukmez mac olusturamaz mac bulamaz sadece takima uye alabilir bireysel olarak üye olanlar takima davet edilme istegi gonderebilir takım kaptanı kabul ederse bireysel üye takima katilir ve baska bir takima katilamaz 
+
+Oyuncular kismi olacak burada takım olusturan uye buradaki butun oyunculari gorup istediği kişiye davetiye yolayacak veya takimina davet edebilecek 3 gun icinde takim 5 kisiyi gecmedigi taktirde takım silinecek ve boylece takım isimleri odalari ozel kilinacak ve takım kirliligi ortadan kalakcak (herkesin takım kurmasinida istemiyorum baska takimlara davet edilenilsin baska takımın uyesi olabilsin istiyorum)
+
+
+Egerki takım oy birligi ile takimin silinmesine karar verdiyse takım kaptanı takimi sil demesiyle takım bireylerine bildirim gidecek ve takim uyeleri onayliyarsa takım silinecek
+Aktif bir teklif/ turnuva/ mac varsa bu takım silinemez  
+
+
+Oyunlar menüsünde takimin veya takim uyelerin oyunu yoksa bu kategoride oyunu goremiyecek egerki  gercekte oyun olmayıp takım bireylerinde olmayan oyunu secmis ve takım kaptani teklif gonderirse oyunu olmayan oyunucu afk olarak geçecek ve raporlama durumunda raporlama protokulu devreye girecektir 
+
+
+
+Kısa bilgiler/detaylar
+
+[  ] Basarimlar kismi olacak bu alan üyeleri siteye cekecek ama bir basarimi tamampalamdan diger basarimi goremeyecek, örnek olarak
+1. Başarım mail ve telefon numarani dogrula(fake hesap istemiyoruz dogrulama yapilmayan hesaplar 48 saat icinde silinir)
+2. Başarım bir banka karti ekle ( 1 tl icinden alinip geri iade edilecek ( guven gostermek buradaki konu)
+3. Başarım takımınla ilk beşe gir 50 krs kazan
+Vs vs...
+
+
+
+1. Sidebar size yuksekligi kuculecek 
+2. Tekliflerde önce oyun seçme alanı gelecek katagori halinde bu alan admin paneli tarafından ayarlanmış olmasi gerekiyor ve burada steam bağlantısı olacak yani hangi oyunu seçtikten katagoriye göre ip olacak ve bu iplerle Kullanıcılar tarayici uzerinden steame bağlanıp turnuva yapacaklar sol veya sağdaki bar oyun seçmesini kullanıcılara sağlayabilir ve kolaylastirabilir buda bir alternatif olacak
+3. Zaman zaman buyuk turnuvalar yapacagiz tarafımızca bunun icin 16 takimdan veya daha fazla takimdan oluşan bir oda olusturacagiz kazanana ödül verilecek
+4. Sagda veya solda bahsettigim menu olacak ve oyunlara buradan gidebilecek 
+5. Odalarda chat olacak takımlar konusabilecek takım ici konusabilcek chat / log olacak logsa takım kaptanın kime teklif gönderdiğini yazacak saat dakika vb ve kimin bakiyesi yetersiz ise bunun logu olacak maci kazandıysa burada gozukecek chat kisminda ise birisi birini etiketlediyse bildirim gidecek uye aktif ise sesli olarak uyari verecek ve yazılan yazıyı okuyacabilecek örnek  @ahmet bakiyen yetmez bu oyuna bakiye yükle 
+6. Loglarimiz olacak her bir yerden yeterli
+7. Yayin linki oyuncunun profilinde ne zaman yayin yaparsa aktif olacak [ tek bir kurali var siteye giris yapmis ve sitede turnuva yapiyor olmasi gerekiyor](boylecek sosyala medyada yayincilar ile sitenin kullanıcı sayisi artacak)
+8. Oyuncularin profil resimlerinde takım kaptanı olduğunda fafa yildiz  olacak
+9. Admin panelinde herseyi kontrol etmeliyiz
+10. Üye urun almasıyla birlikte sesli mesaj ile Mağaza yetkilisini otomatik olarak arayıp bilgilendirecek merhaba payyun.comdan arıyoruz sizi suanda kabul etmeniz gereken bir siparisiniz var iyi gunler... )e mail kutusunda mesaj gelecek detayli olarak
+11. Yayinci ise yayinci fafa yayinci gostergeleri olacak tam resimlerinde sag ustunde takim kaptani ve yayinici ise ikisi yan yana olacak
+12.  sol asagida profilde gösterecek 
+      Oyunucu aktif ise yeşil 🟢
+      Oyunucu pasif ise kirmizi  🔴
+• V3 de odanin arka plani özelleştirmeleri oda oluşturma paralı olacak,mevcut odalarda 3 gün içinde ödeme yapmaz ise oda silinecek ve sesli kanal odasi gibi ozelliklerle aylik ücret alacağız 
+
+
+
+
+
+
+Sayfalar 
+
+
+[  ] Anasayfa
+Istaislikleribulundu yeni oyuncularin veya takımlar isimlerin bulundu magza yrunlerinin kampanyalarin bulundu tanitim sayfasıdır 
+
+[  ] Magaza 
+Urunlerin KDV dahil olduğunu yazısı olacak
+
+Urunleri satin alabilecegi bir alan olacak
+
+Template bazi yerler bizim icin yetersiz kaliyor bu yüzden  market kismi icin magzalari tanitacagimiz ilk bir sayfa olmali örneğin 
+------------------
+Profil resmi/HD bilgisyar
+-----------
+Resim/ resim/ görsel /urun gorseli/fiyatı 
+- ----------------
+Profil resmi/Balikcim
+-----------
+Resim/ resim/ görsel /urun gorseli/fiyati
+------------------
+Profil resmi/Futbol topu satıcısı 
+-----------
+Resim/ resim/ görsel /urun gorseli/fiyati
+------------------
+Her bir katogorinin en saginda asagida magzaya yonlendirecek buton olacak daha fazla urun görecek ve satin alabilecek
+
+Bir kullanici Mağazaya gittiğinde mağazanın bütün ürünlerini görebilecek
+[  ] Magazanin ismini
+[  ] Magaza isminin sol tarafında profil resmi
+[  ] Bir ürünü seçtiğinde urunun kodunu , 
+[  ] ürüne ait resimleri , 
+[  ] ürüne ait videoyu, 
+[  ] Ürun detayli açıklaması 
+[  ] urunun kac tane alacagini 
+[  ] Stok durumunu
+[  ] Ürün raporlanması
+[  ]  Mağazanin ürününe veya magazaya  ait yorumları, 
+[  ] ürüne  ait veya magazaya ait puanlama sistemini görecek, 
+[  ] ürünün boyutunu veya isteklerini açıklama kısmı olacak ne istiyorsa large, 30 cm , kablosuz , ne istiyorsa yazsin müşteri buraya text box a yazacak sepete ekle olacak veya sipariş ver diyip urunu satin alacak, 
+[  ] müşteri ile Mağaza sahibi aralarında yazışmalar yapabilecek ,
+[  ]  müşteri sipariş verdiğinde iptal edebilir lakin iptal butona bastığında iptal talebi oluşturur ürünü iptal etme sebebini yazar ve gönder diyerek ,Mağaza sahibine iptalleri Sayfasında gözükür her bir urun satin alındığında veya iptal olduğunda veya bir üyeden Mağaza sahibine mail aracılığıyla veya telefon aracılığıyla  bildirim gider
+
+Mağaza sahibi tarafindan iptaller de mail ve telefon aracılığıyla sebebi ile bildirim sağlanır ve Bakiye iadesi gerçekleşir 
+
+[  ] Oda
+Buraya tikladiginda odaya gider, tabi takima dahil ise bu alan sidebarda gozukur
+
+• Odaya giriş yaptiginda ev sahipleri sol tarafta cevrim ici kisminda kendi isminin yesil yandigini görecek cevrim disi alanini olacak burada takima dahil olan kisilerin isimleri gozukecek kim odaya giriş yaparsa yeşil yanacak ve cevrim ici bolumunde gozukecek en asagida solda teklif var ise hazır butonu olacak
+
+• Aktif bir teklif var ise takım kaptanı  teklife gitmeden önce teklifte kimler ile oynayacağını takim odasinda seçer oyuncunun karşısında Oyuncuyu seç butonu olacak sec dedikten sonra aynı buton seçme yi gösterecek takım kaptanı takımdaki uyelerin bakiyesini gorebilir ama dokunamaz veya teklif için uygunluk kontrol edilir seçerken 
+Asagida sagda ise ☀️ ayarlar kismi olacak bu ayarlari sadece takım kaptanı duzenliyebilir ama takım üyeleri sadece ayarlari gorebilir
+__________
+
+Misafir oyunuclar sagda gozukecek ayni sekilde karsi takimin oyunculari aktif ise yeşil degilse kirmizi ile gösterilecek  ve takim icinde kim hazir verdiyse ✅️ tik isareti alacak lakin odada teklif yok ise bu alan bos gozukecek orta kısımda suanda kabul edilmis turvuva bulunmamaktadir
+-------
+
+Sorun oluşmaması için kabul edilmiş Teklifleri sıraya alamamiz lazım odalara sadece bir takım giriş yapabilir diger takımlar aktif olan turnuvanin veya ilk siradaki takimin macinin veya oyununu beklemelidir  sol tarafta teklifi verenler adi altinda olacak bir yer olacak ev sahibi istediği takimi seçebilecek oda bos ise takimin kendisi de gelebilir
+
+MISAFIR TAKIM
+Myself TEAM
+AHMET☆ 🟢✅️
+MMMYTR 🔴
+HSXK 🟢
+SHYT 🟢✅️
+SERVT 🟢✅️
+_______
+Teklif Verenler
+
+ATEAM🟠 [buton] davet et /iptal et
+BTEAM🟠 [buton] davet et/iptal et
+[Burada gösterilerle teklif alınan listenin bulunduğu yer]
+
+[ ev sahibi mac  bitti butonuyla odayı bosaltacak  oda bos oldugu icin ev sahibini takip eden misafir takim kaptani, ODAYA GİRİŞ butonun aktif oldugunu gorur ve butona tiklar ve odaya girer [giris izni acilmis olur] veya bunu ev sahibi seçer yukaridaki butonlar gibi] 
+ 
+_________
+
+
+• Aktif bir turnuva var ise odada orta kısımda Skor board olacak takım resimleriyle
+
+• Asagida Chat kismi olacak her iki takim arasinda konusmalr yapabilecek 
+
+• Takımlar arasi konusma olabilecek [yazili olarak sesli sonraki
+ versiyonda gelecek aylik olarak ucret alinacak ]
+
+[ Raporla] butonu olacak 
+Seçenekler admin panelinde eklenebilir olsun 
+Seçeneklerden:
+
+Takimi raporla( hile kullanimi)
+Oyuncuyu raporla(hile kullanimi)
+Server/Sunucuyu raporla(sunucu hatalari)
+Oyun icinde Oyuncuyu raporla(afk oyunucu takım uzerinden para geliri sağlaması durumunda 3 raporlamadan sonraindan siteden uzaklastirilir herhangibir ucret iadesi yapilmaz, ilk raporlamadan 24 saat maclara giremez  ikinci rapoalramda 48 saat ucuncusunde uzaklastirma alir ama her birindede kazandigi ücret tarafımızca alinir gercek bir raporlama sonucunda tabi biz bunu admin panelinde raporlanan kisiler bolukunde  uye bilgileri karisimiza cikacak liste halinde rapor sayisi rapor bilgileri veya kanitlari neyden raporlandigi kac kere raporlandigi 24 saat ceza 48 saat ceza siteden uzaklastir butonlariyla bu islem olacak)
+___
+
+[Textbox]
+Aciklama yazabilecegi alan 
+
+Dosya yukleyebilexegi bir alan 
+
+Raporla [gonder butonu]
+
+/odalarda / mac bittimi ev sahibi takimi rapor ederek hile kullanimi bildirebilir bildiriilen takımlar izlenmeye alinir bildirimlerde kanitlarin olmasi sartir resim video ve ayni sekilde misafir takım da raporlayabilir raporlanan takım olmasi durumunda aktif olan teklif te para akisi askiya alinir yonetim panelinden durum neticeye varana kadar para askida kalir egerki oyuncu veya takimin tamami gercekten hile kullandiysa siteden uzaklastirilir hesabindaki parada bize kalir ve diger takimin ücreti yansitilir
+
+Raporlama bir kere yapilir sonrasında ikicisinde uyari gelir ve 3 farkli takım raporlarsa gercekten sorun oldugu anlaşılır 
+
+
+[  ] Oyuncular
+
+Takimi olmayan oyunculari listeme bolumu burada profilin uzerinde aktif olup olmadigini gosteren kirmizi ve yeşil gosterge olacak kim aktif ise yeşil yanacak aktif degilse kirmizi olacak 
+
+[  ] Takımlar 
+Takimlari listeleme bolumu 
+Burada takımlar listelencek akfit olan takımlar pasif olan takımlar ve mesgul olan[ yani suanda macta olan takım ]
+Bunuda ayni sekilde renklerle gosterecegiz 
+Ama takım resminde olacak
+
+Takim aktif ise yeşil 🟢
+Takim pasif ise kirmizi  🔴
+Takim Meşgul ise turuncu🟠 
+
+[  ] Turnuvalar 
+Gecmis turnuvalar olacak liste halinde kazanıp kazananadigini görecek 
+
+[  ]  Teklifler
+
+Takım kaptanin ve oyuncularinin görebileceği bir alan olup gecmis ve guncel Teklifleri gorecegi teklifini iptal edebilecegi teklifin kabul edildigini gordugu yer olacak ve burada ev sahibi takim teklifi kabul etmiş ise misafir takım kaptani buradan odaya seçtiği oyun arkadaşlari ile baglanir burada buton olacak bu butonu ev sahibine bagli olarak isleyecek teklifi iptal ederse pasif kabul ederse aktif olacak ve turnuva bittiğinde skorun belli olmasiyla bu buton pasif olur , 
+
+
+[  ] Teklif verenler
+
+bir liste halinde olacak
+
+ev sahibi bu alanda aldigi Teklifleri görecek , bildirimler kismi haricinde onaylayliyabilecek  iptal edebilecek (takımlar teklif gonderdiginde ev sahibine bildirim kutusunda gozuken yer haricinde odada teklif verenler kisminda olacak detayli bir sekilde görebileceği yer olacak 
+
+
+
+[  ] Bakiye satin al/oyun parasi satin al 
+
+
+3 veya 4 seçenek olacak site icinde satin al dediginde hesabina bu sectigi seçeneklerden birisi aktif olacak ödeme kredi karti ile gerceklesecek (<karti kaydet seçeneği olacak > < Mağaza, turnuva, alisverisi,iadesi sozleşmeleri kabul edecek zorunlu olarak> ininal veya benzeri kartlar kabul edilemez cunku bu kartlar para iadesi hilesi var)50/100/150/(Diğer [En fazla 1250 tl yükleme yapabilirsiniz]) ( kara para aklama isi yapmak istemiyorum)
+
+
+[  ] Profil ayarlari
+[ burada yapilan ayarlarin bazilari oyunucu listeleme bolumunde gozukecek detaylar kismina tikladiginda]
+
+İsmi soyismi
+Nickname ( bunu gunceleyebilir lakin her kullandığı Nicki yeni  ismin üstüne fare imleci geldiğinde eski nicklerini üyeler gorebilsin, bu üyenin eski nickleri as /sky / art ,,, kimliğini değiştirerek kimseye tekrar zarar vermesin hile ve benzeri olayları engellemek için takımdan atılırsa veya çıkarsa yeni ismi olsa bile takım kaptanı bu isimle tanıyabilir takımına almaz)
+
+Profil resmi
+
+Ülkesi
+
+İli
+
+İlçesi 
+
+Açık adres bilgisi 
+
+Steam profil linki
+
+Yayinci linki (yayinci ise)
+
+Telefon numarası yazacak[0555 *****96] ama güncelleyemiyecek
+ Sadece Tarafımızca guncelenebilinir (guvenlik sebebi)
+
+Mail adresi yazacak [shh****@***.com] ama gunceleyemiyecek
+Sadece Tarafımızca guncelenebilinir (guvenlik sebebi
+
+
+Guvenlik sorusu yazacak ama guncleyemiyecek guvenlik sorusunun bilgisinin cevabi yazmiyacak gizli kalacak
+
+[  ] Takım ayarlari
+
+Takım kaptanı ; takimdan ayrilacaksa ilk once liderligi *--birine vermesi gerekiyor-*
+Takima katilma daveti kabul ediyorum etmiyorum[ bireysel uyeler icin teklif alma/almama]
+Oyuncuyu takimdan atma
+Takım ismi benzersiz olacak unique
+
+
+
+[  ] Oda ayarlari
+ 
+
+Standart teklifimiz  textbox 
+Diger takımlar teklif gonderebilir / gönderemez ( takım kaptanı bunu kapatirsa diger takımlar teklif giremiyecekler/sunamiyacaklar sadece standard ayarlarda olan ücret kadar teklif gonder buttonu olacak)
+
+
+
+
+
+
+
+
+
+
+
+YONETIM PANELI
+
+..
+Sayfalar 
+
+
+• Turnuva bölümü
+
+
+[  ] Anasayfa 
+Olan tum istatislikleri gorecegiz
+[  ] Takımlar
+Butun takimlari gorecegiz düzenleme banlama vs
+[  ] Oyuncular 
+Butun kullanicilari gorecegiz bakiyesi ekleme çıkarma banlama sureli uzaklaştırma vs
+[  ] Turnuvalar 
+Butun Teklifleri gorecegiz teklif iptali teklif açma bütün takimlarla turnuva yapmak için oda acma
+[  ] Raporlamalar
+Yapilan raporlamlari gorup islemleri burada gorecegiz kim ne kadar roporlanmis neyden raporlanmis vs
+
+
+
+
+Mağaza 
+
+[  ] Anasayfa 
+Istatislikleri gorebilecegimiz toplam satilarin kaç magzaya ait oldugunu göreceğimiz gibi bilgiler yer alir
+
+[  ] Kullanıcılar 
+Magaza yoneticilerini gorecegimiz 
+Kullanıcının ne kadar kazandığını
+ ödeme yapıldıysa ödeme yapıldı 
+ödeme yapılmadı [ödeme durduruldu >açıklaması ]
+Kullanıcıya mesaj veya bildirim göndereceğiniz 
+Kullanıcıyı engeleme
+Kullanıcıyı engelini kaldırma 
+Kulaniciya/kullanıcılara Satis promosyon kodu ekleme
+
+Mail telefon vergi kimlik numarasi iban numarası olduğu  Sözleşmesinin bir nushasinin oldugu gibi bilgiler yer alacak
+
+[  ] Mağazalar 
+
+Magazlarin listesini gorecegimiz magaza silme ekleme islemlerin yapildigi yer 
+Magazanin birine tikladigimizda urunleri gotebilecegimiz ve duzenliyecegimiz fiyatlarina kampanya yapacağımız gibi bir cok ozeligin oldugu alan
+
+
+[  ] Mağaza ekleme 
+
+
+
+Magaza adi 
+Mağaza kategorisi 
+Vergi kimlik numarası 
+Sahibinin adi soyadı 
+Iban numarası 
+Ibana bagli oldugu banka adi 
+
+Kullanıcı adı [panele giris bolumu olmakla birlikte magaza linki oluyor örneğin payyung.com/myshop]
+
+Kullanıcı şifresi 
+Guvenlik sorusu
+Guvenlik sorusu cevabi
+Mail adresi 
+Telefon numarası 
+Mağaza profil resmi 
+KDV Bilgisi %18 & %20 gibi
+
+[  ] Raporlama
+
+Kullanicilardan gelen Mağaza raporlamlari urunleri raporlamalari olacak liste halinde listede rapor seçtiğimiz de detaylar kısmında kullaniciların detaylı neler yazdığını görebileceğiz
+
+[  ] Ürünler 
+
+Magaza tarafindan bizlere verilen bir kod ile kendi sitesindeki urunleri sergileriz eger herhangibi bir kodu yok ise urunleri magaza yetkilisi urunleri kendi panelinde ekler
+
+
+
+[  ] İptal ve iade
+Magazalarin iade etmediği veya onaylamadığı sipariş lerim detayları ile Magzalar ismine kadar görebileceğimiz alan
+
+[  ] Ayarlar
+
+Mağazayı bakım moduna al
+
+Ürünlerden kazanç sağlama 
+
+Her bir magazadan belli bir ücret alınacaktır bu KDV dahil ücret eklemesi yapacak sistem ben buraya ne girersem bütün mağazalardan ücret alacak veya almayacak yani tüm mağazalara uygula 
+sadece şu mağazayı uygula
+
+[  ] Katagoriler
+
+Urun katogorilerini düzenleyeceğimiz alan 
+Teknoloji
+Giyim
+Spor
+Bilgisayar parcasi
+...
+...
+..
+.
+-------------
+
+Magaza paneli 
+
+
+(İşletmeler için)
+
+
+
+[  ] Anasayfa
+
+Kazançlarını görebileceği  ve istatisliklerini gorebildigi ve yaptigi satislarin iadelerin kargoda olan urunlerin listesini görebildiği alan
+
+
+[  ] Urunler
+
+• Urun listesi olacak urunleri ekliyebilecek ,cikarabilecek ,yeniden fiyatlandirabilcek,stok eksiltip cogaltabilecek , açıklama kismini duzenliyebilecek
+
+• Mağazada Mağaza saticisi urun fiyat bilgisi girerken sistem % uzerinden KDV hesaplayarak ve her bir ürüne kdv ekleyecek arti belirledigimiz ücreti koyacak
+
+• Kod veririse urunler otomatik olarak gelir 
+
+[  ] Urun ekleme
+[  ]  Urun silme
+[  ]  Urun fiyatı 
+[  ]  açıklama kısmı
+[  ]  Kargo ücreti
+[  ] Kargo bilgisi
+[  ]  urun stoğu
+[  ]  Urun resmi ve videosu olduğu alan
+[  ] Yayina al butonu ve yayindan cikar butonu
+
+• Yayina alinmayan urun magzada gösterilmez 
+
+Mağaza sahibi her Urun eklediginde #36373-77-222 bunun gibi benzersiz urun kodu olacak ilk 5 hanesi Mağaza numarasini belirler geri kalan ise urunun kodudur 
+
+
+
+
+[  ] Satislarim ( satis olamasi durumunda telefon ve mail ile bilgilendirecegiz)
+
+Satis yaptigi urunler olacak
+
+Üyeler sipariş verdiğinde 
+Mağaza yetkilisi iptal sebebi belirtikten sonrasinda iptal olur ama stokta kalmadi seçeneğini seçerek ürünü yayindan kaldirir yayindan kaldirlan urun urunlerim Sayfasında gozukur ama yayinda olmaz bunun icin tekrar stok ayari yapip yayina al butonuna tiklamasiyla urun yayina girer
+
+Üyeler sipariş verdiğinde 
+
+[  ] sipariş kodu,
+[  ] kaç adet olduğu,
+[  ] müsterinin Urun istek ve talepleri, 
+[  ] mustrrinin acik adresi 
+[  ] sipariş onayla butonu,
+[  ]  sipariş iptal butonu 
+[  ]  sipariş numarasi olacak
+ Bu magaza ve urun kodu #36373-77-222 satis yaptiginda ise #36373-77-222-22848 bu sekilde olacak son 5 hanesi sipariş numarası olacak
+Mağaza sahibi 15 dakika icinde siparişi onaylamaz ise ilk once bizlere bildirim  gelir magaza direktörümüze Mağazaya 5 saat icinde telefon ve mail aracılığı ile ulasmaya çalışırız, ulaşılamadı ise iade protokolü uygulanir müşteriye Bakiye iade edilir sipariş iptal edilir iptaller bolumune düşer aciklmada ise onaylanmayan sipariş 
+
+[  ] Muhasebe 
+
+Bu sayfaya girdiğinde geçmiş Ürünler ve kazançları olacak sipariş koduyla birlikte örnek 
+
+ #36373-77-222-22848/Urun resmi / teknoloji/ telefon/25.11.2030/11:50/4.500 tl /20 tl kesinti yapilmistir /urun detayları > ürünü detayli incelemesi >markası açıklama kısmı >stok durumu olacak
+
+Toplam aylik  Kazançlarını ve kesintilerini  liste halinde detayli bir halde  tarih saat gün ay sekilde görebilecek ve bizlerin hesabina paranın akışını sağladığımız dair paranız hesabınıza yatırıldı,  henüz yatırılmadı, onay beklemede gibi durumlar ekliyecegiz burada detayli olarak görüyor ama ana sayfada sadece tüm kazançlarını aylik ve günlük kazançlarını görecek 
+
+Kesinti [bizler her bir urun için KDV oldugundan kesinti yapmalıyız bunuda Admin panelinden ekleyebilir gunceleyebilir olmamız lazim her magaza için veya belli bir magaza icin ]
+
+[  ] Iptallerim /Iadelerim
+Urun iadelerin oldugu sayfa urun iade edildiginde sipariş numarası ile arayacağız 
+Musteri Ürün siparişine iptal talebi verdiğinde veya mağaza sahibi iptal dediginde satışta olan urun buraya düşer müşteri tarafından verilen talepte Mağaza sahibi iptal sebebini okur ve iptal talebini okur onaylar veya red verebilir, Mağaza sahibi bu talebi yanıtlamak ise 48 saat içinde para iadesi protokolü başlar ve 48 saat sure sonunda kişinin hesabına Bakiye yansitilir
+[  ] Kargo
+
+Kargo. Bilgisinin girildiği yer 
+Kargo numarası 
+Kargo firması 
+Kargo takip linki
+
+
+
+
+Reklam
+
+Takımınız kur,turnuvanı yap, kazan, Mağazada isteğin ürünleri seç  istediğin Ürün kapinda
+Payyun.com
+
+
+     Açılışa özel indirim şenlikleri devam ediyor
+Payyung.comda yapacaginiz tüm seçili  ürünlerde %50 indirim fırsatı devam ediyor, payyung.com 
+
+
